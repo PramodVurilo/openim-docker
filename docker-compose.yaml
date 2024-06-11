@@ -1,3 +1,9 @@
+captainVersion: 4
+caproverOneClickApp:
+    instructions:
+        start: Just a plain Docker Compose.
+        end: Docker Compose is deployed.
+
 version: '3'
 
 networks:
